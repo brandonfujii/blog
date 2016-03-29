@@ -6,14 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: sudo
-email: brandonfujii2018@u.northwestern.edu
+title: HearYe Blog
+email: info@hearye.io
 description: > # this means to ignore newlines until "baseurl:"
- Hi, I'm Brandon Fujii. I'm an LA native and a Computer Science student at Northwestern University. I love designing and developing for the web. Currently working on a mobile app @hearyeapp. 
+ HearYe is an iOS app that allows students to find things to do on campus 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://brandonfujii.com" # the base hostname & protocol for your site
-twitter_username: brandonfujii
-github_username:  brandonfujii
+url: "http://www.hearye.io" # the base hostname & protocol for your site
+twitter_username: hearyeapp
 
 # Build settings
 markdown: kramdown
